@@ -1,11 +1,11 @@
 function Product({ product }) {
   return (
-    <div className="product-card bg-white container w-52 rounded-lg border hover:shadow-xl">
-      <div className="product-img w-52 h-52 flex justify-center">
+    <div className="product-card bg-white container w-full h-full rounded-lg border hover:shadow-xl flex sm:flex-col">
+      <div className="product-img w-52 h-52 flex justify-center self-center justify-self-center">
         <img
           src={product.imgUrl}
           alt={`${product.title}-image`}
-          className="max-w-full max-h-full"
+          className="max-w-full max-h-full object-cover"
         />
       </div>
       <div className="product-details px-4 py-2">

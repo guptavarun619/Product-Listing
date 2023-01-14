@@ -1,44 +1,77 @@
 {
   "data": [
     {
-      "title": "38024PP25",
+      "title": "Men Argyle V Neck Blue Sweater",
+      "brand": "aarbee",
+      "price": "1049",
+      "sizeAvailable": { "S": false, "M": false, "L": true },
+      "idealFor": "M",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/kr2e3680/sweater/8/p/d/s-ab-hw92957-aarbee-original-imag4xhfcyheezub.jpeg?q=70"
+    },
+
+    {
+      "title": "Men Striped V-neck Red, Black Sweater",
       "brand": "Roadster",
-      "price": "850",
-      "size": "M",
-      "idealFor": "Men",
-      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/ksw4ccw0/watch/6/b/c/38024pp25-fastrack-men-original-imag6cu9xkhbgz4y.jpeg?q=70"
+      "price": "549",
+      "sizeAvailable": { "S": true, "M": false, "L": false },
+      "idealFor": "M",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/jgzfv680/sweater/6/j/h/l-1859682-roadster-original-imaf53zsygkpthpa.jpeg?q=70"
     },
     {
-      "title": "38024PP25",
-      "brand": "Roadster",
-      "price": "850",
-      "size": "M",
-      "idealFor": "Men",
-      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/ksw4ccw0/watch/6/b/c/38024pp25-fastrack-men-original-imag6cu9xkhbgz4y.jpeg?q=70"
+      "title": "Men Solid Multicolor Sweater",
+      "brand": "Wildcraft",
+      "price": "769",
+      "sizeAvailable": { "S": false, "M": true, "L": false },
+      "idealFor": "M",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/k5pn6vk0/sweater/y/f/s/s-41450steal-wildcraft-original-imafzbw4jugrfuyx.jpeg?q=70"
     },
     {
-      "title": "38024PP25",
-      "brand": "Roadster",
-      "price": "850",
-      "size": "M",
-      "idealFor": "Men",
-      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/ksw4ccw0/watch/6/b/c/38024pp25-fastrack-men-original-imag6cu9xkhbgz4y.jpeg?q=70"
+      "title": "Women Woven V Neck Beige Sweater",
+      "brand": "Pivl",
+      "price": "399",
+      "sizeAvailable": { "S": false, "M": true, "L": false },
+      "idealFor": "W",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/kjem3rk0-0/sweater/b/1/n/m-pv502-camel-pivl-original-imafyzfhvafysftj.jpeg?q=70"
     },
     {
-      "title": "38024PP25",
-      "brand": "Roadster",
-      "price": "850",
-      "size": "M",
-      "idealFor": "Men",
-      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/ksw4ccw0/watch/6/b/c/38024pp25-fastrack-men-original-imag6cu9xkhbgz4y.jpeg?q=70"
+      "title": "Women Woven High Neck Pink Sweater",
+      "brand": "Pivl",
+      "price": "699",
+      "sizeAvailable": { "S": true, "M": false, "L": false },
+      "idealFor": "W",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/k3orqfk0/sweater/u/g/g/xl-pv902-pink-pivl-original-imafmrdpwpzg7gfr.jpeg?q=70"
     },
     {
-      "title": "38024PP25",
-      "brand": "Roadster",
-      "price": "850",
-      "size": "M",
-      "idealFor": "Men",
-      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/ksw4ccw0/watch/6/b/c/38024pp25-fastrack-men-original-imag6cu9xkhbgz4y.jpeg?q=70"
+      "title": "Women Woven High Neck Pink Sweater",
+      "brand": "Pivl",
+      "price": "699",
+      "sizeAvailable": { "S": true, "M": false, "L": false },
+      "idealFor": "W",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/ktizdzk0/sweater/n/m/d/l-rz-9513-pink-rivza-original-imag6uyewtngq45y.jpeg?q=70"
+    },
+    {
+      "title": "Boys Colorblock Round Neck Multicolor Sweater",
+      "brand": "JACK AND JONES",
+      "price": "569",
+      "sizeAvailable": { "S": false, "M": true, "L": false },
+      "idealFor": "K",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/l432ikw0/sweater/q/i/7/9-10-years-boys-sweater-04-black-nick-and-jones-original-imagf2fyrpadqfga.jpeg?q=70"
+    },
+    {
+      "title": "Boys Colorblock Round Neck Multicolor Sweater",
+      "brand": "JACK AND JONES",
+      "price": "500",
+      "sizeAvailable": { "S": true, "M": false, "L": false },
+      "idealFor": "K",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/l432ikw0/sweater/o/e/k/10-11-years-boys-sweater-09-grn-nick-and-jones-original-imagf2fyj5cuuhbk.jpeg?q=70"
+    },
+    {
+      "title": "Girls Printed Crew Neck Multicolor Sweater",
+      "brand": "NICK AND JONES",
+      "price": "549",
+      "sizeAvailable": { "S": false, "M": false, "L": true },
+      "idealFor": "K",
+      "imgUrl": "https://rukminim1.flixcart.com/image/832/832/l432ikw0/sweater/p/l/l/15-16-years-girls-sweater-07-yellow-nick-and-jones-original-imagf2fyz2mcyygy.jpeg?q=70"
     }
   ]
 }
