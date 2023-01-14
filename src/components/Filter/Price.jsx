@@ -19,6 +19,7 @@ function Price() {
           value={price}
           onChange={onPriceChangeHandler}
         >
+          <option value="">Any</option>
           <option value="low2high">Low to high</option>
           <option value="high2low">High to low</option>
         </select>
