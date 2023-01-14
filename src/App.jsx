@@ -98,7 +98,7 @@ function App() {
           <div className="filters w-full lg:w-1/5">
             <Filters />
           </div>
-          <div className="products-list bg-slate-50 p-4 rounded-lg w-full lg:w-4/5 grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+          <div className="products-list bg-slate-50 p-4 h-fit rounded-lg lg:w-4/5 grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 ">
             {filteredProducts.map((product, idx) => (
               <Product product={product} key={idx} />
             ))}
