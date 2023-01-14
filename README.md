@@ -13,9 +13,7 @@ It includes the the following features :
 
 Used gird for Product Listing layout and created a Filter context which would have the `state(s)` and `setState(s)` for each parameter and it's provider is kept on Product Layout i.e. App Layout(`./src/App.jsx`) enclosing the products rendering and filter inputs.
 
-## 🔗 Links - [Live Demo]()
-
-## Usage
+## 🔗 Links - [Live Demo](https://product-listing-red.vercel.app/)
 
 ## Run Locally
 
