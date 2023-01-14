@@ -1,6 +1,6 @@
 function Product({ product }) {
   return (
-    <div className="product-card container w-52 rounded-lg border hover:shadow-xl">
+    <div className="product-card bg-white container w-52 rounded-lg border hover:shadow-xl">
       <div className="product-img w-52 h-52 flex justify-center">
         <img
           src={product.imgUrl}
