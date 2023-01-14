@@ -1,5 +1,6 @@
 import Brand from "./Brand";
 import IdealFor from "./IdealFor";
+import Price from "./Price";
 import Size from "./Size";
 
 function Filters() {
@@ -10,6 +11,7 @@ function Filters() {
         <Size />
         <IdealFor />
         <Brand />
+        <Price />
       </div>
     </div>
   );

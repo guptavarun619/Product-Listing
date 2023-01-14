@@ -16,8 +16,11 @@ function App() {
   const [women, setWomen] = useState(false);
   const [kids, setKids] = useState(false);
 
-  //
+  // brand name
   const [brand, setBrand] = useState("");
+
+  // sort by price
+  const [price, setPrice] = useState("");
 
   useEffect(() => {
     const fetchedData = products.data;
@@ -46,8 +49,14 @@ function App() {
       return true;
     });
 
+    if (price == "low2high") {
+      filterByBrand.sort((a, b) => parseInt(a.price) - parseInt(b.price));
+    } else if (price == "high2low") {
+      filterByBrand.sort((a, b) => parseInt(b.price) - parseInt(a.price));
+    }
+
     setFilteredProducts(filterByBrand);
-  }, [men, women, kids, small, medium, large, brand]);
+  }, [men, women, kids, small, medium, large, brand, price]);
   return (
     <div className="App">
       <div className="bg-slate-200 px-2 sm:px-4 py-2.5  w-full z-20 top-0 left-0 border-b border-gray-200 flex justify-between items-center">
@@ -81,6 +90,8 @@ function App() {
           setKids,
           brand,
           setBrand,
+          price,
+          setPrice,
         }}
       >
         <div className="products-layout  container mx-auto p-4  grid grid-cols-5 gap-8">
